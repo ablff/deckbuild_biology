@@ -130,9 +130,9 @@ Architecture
 
 ## Phase 1 — Core Data
 
-- [ ] Create CardBase Resource
-- [ ] Implement inheritance hierarchy
-- [ ] Build card database
+- [x] Create CardBase Resource
+- [x] Implement inheritance hierarchy
+- [x] Build card database
 - [ ] Create first playable faction (Hymenoptera)
 
 ## Phase 2 — Battlefield

@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="ProducerCard" format=3 uid="uid://c72i8r1kq6jyl"]
+
+[ext_resource type="Script" uid="uid://bjqljjmjrr4n5" path="res://scripts/cards/ProducerCard.gd" id="1_si4tl"]
+
+[resource]
+script = ExtResource("1_si4tl")
+card_name = "Mycelium Patch"
+flavor_text = "Mycelium Patch"
+metadata/_custom_type_script = "uid://bjqljjmjrr4n5"
